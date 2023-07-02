@@ -1,0 +1,2 @@
+First select the type of bottom wear, suppose its jeans then select the type of jeans u like. for example user selected boot cut jeans then select the color. 
+Option for top wear best suited for that jeans. then the kind of tops suited for boot cut jeans will be displayed automatically also specific colored top. 
